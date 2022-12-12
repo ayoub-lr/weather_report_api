@@ -1,0 +1,14 @@
+
+.content{
+        width: 50%;
+        margin: 160px auto;
+        height: 400px;
+        padding: 20px;
+        background: rgb(31, 13, 124);
+}
+
+.content h2{
+   color: #fff;
+   font-weight: 700;
+   font-size: 30px;
+}
